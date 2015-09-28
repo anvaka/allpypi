@@ -12,8 +12,8 @@ This repository just takes his output (a csv-like file) and computes layout of t
 
 Prerequisites
 
-1. You will need to download dependencies using [deps.py](https://github.com/koder-ua/python_deps/blob/master/deps.py)
-script. Once done, save it into `data/packages.csv`.
+1. You will need to download dependencies using `deps.py` (see [readme file](https://github.com/koder-ua/python_deps) for instructions). Once done, 
+save it into `data/packages.csv`.
 2. Install the layouter:
 
 ```
