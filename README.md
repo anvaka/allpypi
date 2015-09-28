@@ -1,7 +1,6 @@
 # allpypi
 
-Layout for all pypi packages. Produces graph data for the visualization of the
-python dependencies in http://anvaka.github.io/pm/
+Layout for all PyPI packages. 
 
 All work of the pypi indexer is done by [@koder-ua](https://github.com/koder-ua/)
 who hacked together the [pypi crawler and graph extractor](https://github.com/koder-ua/python_deps/blob/master/deps.py)
