@@ -4,7 +4,7 @@
   "description": "Crawler of the python packages",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [
     "crawler",
@@ -17,5 +17,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/allpypi"
+  },
+  "dependencies": {
+    "line-reader": "^0.2.4",
+    "ngraph.graph": "0.0.12",
+    "ngraph.offline.layout": "^1.0.1",
+    "ngraph.tobinary": "^1.0.1"
   }
 }
