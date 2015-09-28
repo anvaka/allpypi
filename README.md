@@ -4,10 +4,9 @@ Layout for all PyPI packages.
 
 All work of the pypi indexer is done by [@koder-ua](https://github.com/koder-ua/)
 who hacked together the [pypi crawler and graph extractor](https://github.com/koder-ua/python_deps/blob/master/deps.py)
-20 minutes (HUGE thanks!).
+in 20 minutes (HUGE thanks!).
 
-This repository just takes his output (a csv-like file, whose description is
-below) and computes layout of the graph.
+This repository just takes his output (a csv-like file) and computes layout of the graph.
 
 # how to generate graph?
 
